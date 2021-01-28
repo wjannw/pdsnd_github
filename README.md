@@ -2,8 +2,7 @@
 The bikeshare project was created on Tuesday 26 January 2021.
 This README file was updated on Thursday 28 January 2021.
 
-### Project Title
-Replace the Project Title
+### Explore US Bikeshare Data
 
 ### Description
 Describe what your project is about and what it does
