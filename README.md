@@ -1,5 +1,6 @@
 ### Date created
-Include the date you created this project and README file.
+The bikeshare project was created on Tuesday 26 January 2021.
+This README file was updated on Thursday 28 January 2021.
 
 ### Project Title
 Replace the Project Title
@@ -12,4 +13,3 @@ Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
