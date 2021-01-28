@@ -21,7 +21,7 @@ def get_filters():
     months = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
     days = ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 
-    print('Welcome! Let\'s explore some US bikeshare detail!')
+    print('Welcome! Let\'s explore some United States bikeshare detail!')
 
     #ask for user to choose the city. Check against the city list defined above:
     while True:
